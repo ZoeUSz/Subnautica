@@ -5,7 +5,7 @@ url = "http://localhost:5000/api/dados"
 headers = {"Content-Type": "application/json"}
 
 dados = {
-    "temperatura": 10,
+    "temperatura": 12,
     "ultima_refeicao": "2025-05-27 10:00:00",
     "proxima_refeicao": "2025-05-27 18:00:00"
 }

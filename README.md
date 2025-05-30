@@ -10,15 +10,15 @@ Este projeto tem como objetivo automatizar o controle de um aquário, integrando
 
 - [ESP32](https://www.espressif.com/en/products/socs/esp32)
 - [Arduino Uno](https://www.arduino.cc/en/Main/ArduinoBoardUno)
-- [Arduino IDE](https://www.arduino.cc/en/software) (para programação do Arduino e ESP32)
-- Display LCD I2C
+- [Arduino IDE](https://www.arduino.cc/en/software) (para programação do Arduino Uno e ESP32)
 - Motor de passo
-- Sensor de temperatura
-- Sensor de nível de água
-- RTC (Relógio de Tempo Real)
-- Impressão 3D personalizada
+- Sensor de temperatura (DS18B20)
+- Aquecedor (SOBO HS-100)
+- Resfriador (ventoinha de 5V com controle via ESP32)
+- Mini Bomba (JT100)
 - Powerbank (fonte de alimentação)
-- Flask + HTML (interface web em Raspberry Pi com tela touch)
+- Impressão 3D personalizada
+- Flask + HTML (interface web)
 
 ## 📦 Funcionalidades
 
