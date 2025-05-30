@@ -1,0 +1,9 @@
+# .gitignore
+*.log
+*.dat
+*.ini
+*.tmp
+*.DS_Store
+*.regtrans-ms
+*.blf
+*.bak

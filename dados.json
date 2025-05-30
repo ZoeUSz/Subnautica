@@ -1,0 +1,62 @@
+[
+    {
+        "temperatura": 26.7,
+        "ultima_refeicao": "2025-05-27 10:00:00",
+        "proxima_refeicao": "2025-05-27 18:00:00",
+        "timestamp": "2025-05-27T20:15:29.778281"
+    },
+    {
+        "temperatura": 26.7,
+        "ultima_refeicao": "2025-05-27 10:00:00",
+        "proxima_refeicao": "2025-05-27 18:00:00",
+        "timestamp": "2025-05-27T20:23:28.876546"
+    },
+    {
+        "temperatura": 27.7,
+        "ultima_refeicao": "2025-05-27 10:00:00",
+        "proxima_refeicao": "2025-05-27 18:00:00",
+        "timestamp": "2025-05-27T20:23:52.942180"
+    },
+    {
+        "temperatura": 28.7,
+        "ultima_refeicao": "2025-05-27 10:00:00",
+        "proxima_refeicao": "2025-05-27 18:00:00",
+        "timestamp": "2025-05-27T20:25:50.544890"
+    },
+    {
+        "temperatura": 30.7,
+        "ultima_refeicao": "2025-05-27 10:00:00",
+        "proxima_refeicao": "2025-05-27 18:00:00",
+        "timestamp": "2025-05-27T20:28:41.596216"
+    },
+    {
+        "temperatura": 30.7,
+        "ultima_refeicao": "2025-05-27 10:00:00",
+        "proxima_refeicao": "2025-05-27 18:00:00",
+        "timestamp": "2025-05-27T20:30:53.975696"
+    },
+    {
+        "temperatura": 20.7,
+        "ultima_refeicao": "2025-05-27 10:00:00",
+        "proxima_refeicao": "2025-05-27 18:00:00",
+        "timestamp": "2025-05-27T20:31:12.191143"
+    },
+    {
+        "temperatura": 10,
+        "ultima_refeicao": "2025-05-27 10:00:00",
+        "proxima_refeicao": "2025-05-27 18:00:00",
+        "timestamp": "2025-05-27T20:33:19.826808"
+    },
+    {
+        "temperatura": 5,
+        "ultima_refeicao": "2025-05-27 10:00:00",
+        "proxima_refeicao": "2025-05-27 18:00:00",
+        "timestamp": "2025-05-27T20:37:16.043465"
+    },
+    {
+        "temperatura": 10,
+        "ultima_refeicao": "2025-05-27 10:00:00",
+        "proxima_refeicao": "2025-05-27 18:00:00",
+        "timestamp": "2025-05-27T20:42:32.275286"
+    }
+]
