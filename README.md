@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagens/logo.jpg" alt="Logo Subnautica" width="300"/>
+  <img src="img/logo.jpg" alt="Logo Subnautica" width="300"/>
 </p>
 
 # 🤖 Projeto: Aquário Automático
