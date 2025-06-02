@@ -63,6 +63,15 @@ def ver_dados():
     with open(ARQUIVO, "r") as f:
         dados = json.load(f)
     return jsonify(dados)
+@app.route("/api/ultimo", methods=["GET"])
+def ver_dado_mais_recente():
+    inicializar_arquivo_json()
+    with open(ARQUIVO, "r") as f:
+        dados = json.load(f)
+        if dados:
+            return jsonify(dados[-1])  # Retorna o último dado como objeto simples
+        return jsonify({})
+
 
 if __name__ == "__main__":
     inicializar_arquivo_json() # Garante que o arquivo exista ao iniciar a aplicação
