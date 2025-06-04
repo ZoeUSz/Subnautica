@@ -97,5 +97,1314 @@
         "temperatura": 30,
         "rele_aquecedor": false,
         "timestamp": "2025-06-01T21:41:03.393833"
+    },
+    {
+        "temperatura": 30,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-02T18:29:27.319476"
+    },
+    {
+        "temperatura": 28,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-02T18:29:47.519524"
+    },
+    {
+        "temperatura": 25,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-02T18:30:26.045181"
+    },
+    {
+        "temperatura": 25,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-02T20:24:34.392916"
+    },
+    {
+        "temperatura": 25,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-02T20:26:04.070558"
+    },
+    {
+        "temperatura": 20,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-02T20:51:54.417192"
+    },
+    {
+        "temperatura": 15,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T12:39:14.655784"
+    },
+    {
+        "temperatura": 18,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T12:40:21.052201"
+    },
+    {
+        "temperatura": 30,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T12:40:41.906965"
+    },
+    {
+        "temperatura": 28,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T12:41:19.452369"
+    },
+    {
+        "temperatura": 25,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T12:41:49.405935"
+    },
+    {
+        "temperatura": 10,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T12:42:38.291868"
+    },
+    {
+        "temperatura": 5,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T12:43:36.873759"
+    },
+    {
+        "temperatura": 5,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T12:48:10.933336"
+    },
+    {
+        "temperatura": 8,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T12:48:41.643718"
+    },
+    {
+        "temperatura": 12,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T13:26:37.903681"
+    },
+    {
+        "temperatura": 25.12,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:53:20.959754"
+    },
+    {
+        "temperatura": 25.12,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:53:34.938587"
+    },
+    {
+        "temperatura": 25.19,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:53:55.358616"
+    },
+    {
+        "temperatura": 25.25,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:54:07.657251"
+    },
+    {
+        "temperatura": 30.75,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:54:31.610489"
+    },
+    {
+        "temperatura": 32.19,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:54:53.783903"
+    },
+    {
+        "temperatura": 32.81,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:55:07.970266"
+    },
+    {
+        "temperatura": 25.19,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:55:14.209270"
+    },
+    {
+        "temperatura": 11.88,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T18:55:19.537952"
+    },
+    {
+        "temperatura": 6.12,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T18:55:31.014858"
+    },
+    {
+        "temperatura": 15.69,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T18:55:42.273889"
+    },
+    {
+        "temperatura": 23.94,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T18:55:53.744600"
+    },
+    {
+        "temperatura": 28.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:56:18.531392"
+    },
+    {
+        "temperatura": 29.19,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:56:29.887135"
+    },
+    {
+        "temperatura": 28.25,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:56:41.356226"
+    },
+    {
+        "temperatura": 27.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:56:52.579465"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:57:03.999290"
+    },
+    {
+        "temperatura": 27.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:57:15.088642"
+    },
+    {
+        "temperatura": 28.25,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:57:29.425809"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:57:40.991323"
+    },
+    {
+        "temperatura": 27.25,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:57:53.664788"
+    },
+    {
+        "temperatura": 27.0,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:58:07.886351"
+    },
+    {
+        "temperatura": 26.81,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:58:19.460939"
+    },
+    {
+        "temperatura": 26.75,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:58:30.544041"
+    },
+    {
+        "temperatura": 26.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:58:41.663870"
+    },
+    {
+        "temperatura": 26.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:58:53.266957"
+    },
+    {
+        "temperatura": 26.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:59:04.518329"
+    },
+    {
+        "temperatura": 26.37,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:59:15.598291"
+    },
+    {
+        "temperatura": 26.25,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:59:26.955398"
+    },
+    {
+        "temperatura": 26.19,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:59:38.157386"
+    },
+    {
+        "temperatura": 26.12,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T18:59:49.784880"
+    },
+    {
+        "temperatura": 26.06,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:00:01.150222"
+    },
+    {
+        "temperatura": 25.88,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:00:36.376056"
+    },
+    {
+        "temperatura": 25.81,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:00:49.655789"
+    },
+    {
+        "temperatura": 25.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:01:00.953042"
+    },
+    {
+        "temperatura": 25.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:01:12.326995"
+    },
+    {
+        "temperatura": 25.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:01:23.534271"
+    },
+    {
+        "temperatura": 25.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:01:38.029520"
+    },
+    {
+        "temperatura": 25.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:01:49.387611"
+    },
+    {
+        "temperatura": 25.37,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:02:00.857148"
+    },
+    {
+        "temperatura": 25.31,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:02:12.434793"
+    },
+    {
+        "temperatura": 25.31,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:02:23.551561"
+    },
+    {
+        "temperatura": 25.19,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:02:45.611344"
+    },
+    {
+        "temperatura": 25.19,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:03:05.163074"
+    },
+    {
+        "temperatura": 25.19,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:03:13.536308"
+    },
+    {
+        "temperatura": 25.0,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:03:38.352311"
+    },
+    {
+        "temperatura": 25.0,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:03:52.536225"
+    },
+    {
+        "temperatura": 25.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:04:04.047461"
+    },
+    {
+        "temperatura": 25.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:04:15.629481"
+    },
+    {
+        "temperatura": 29.12,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:04:26.889659"
+    },
+    {
+        "temperatura": 28.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:04:51.766576"
+    },
+    {
+        "temperatura": 28.0,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:05:13.886349"
+    },
+    {
+        "temperatura": 27.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:05:35.701786"
+    },
+    {
+        "temperatura": 27.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:05:47.064317"
+    },
+    {
+        "temperatura": 27.31,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:06:01.164637"
+    },
+    {
+        "temperatura": 27.13,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:06:12.778473"
+    },
+    {
+        "temperatura": 27.0,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:06:24.055478"
+    },
+    {
+        "temperatura": 26.87,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:06:35.503967"
+    },
+    {
+        "temperatura": 26.75,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:06:46.673401"
+    },
+    {
+        "temperatura": 26.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:06:58.030055"
+    },
+    {
+        "temperatura": 26.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:07:09.253120"
+    },
+    {
+        "temperatura": 26.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:07:20.461887"
+    },
+    {
+        "temperatura": 26.31,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:07:31.823010"
+    },
+    {
+        "temperatura": 26.31,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:07:48.514601"
+    },
+    {
+        "temperatura": 26.19,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:07:54.661838"
+    },
+    {
+        "temperatura": 26.06,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:08:05.793077"
+    },
+    {
+        "temperatura": 26.0,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:08:17.192381"
+    },
+    {
+        "temperatura": 25.94,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:08:28.555117"
+    },
+    {
+        "temperatura": 25.88,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:08:39.790956"
+    },
+    {
+        "temperatura": 25.88,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:08:54.470094"
+    },
+    {
+        "temperatura": 25.81,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:09:05.934796"
+    },
+    {
+        "temperatura": 25.75,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:09:17.298432"
+    },
+    {
+        "temperatura": 25.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:09:28.772711"
+    },
+    {
+        "temperatura": 25.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:09:40.141082"
+    },
+    {
+        "temperatura": 25.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:09:51.459150"
+    },
+    {
+        "temperatura": 25.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:10:02.734282"
+    },
+    {
+        "temperatura": 25.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:10:14.470098"
+    },
+    {
+        "temperatura": 25.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:10:29.292893"
+    },
+    {
+        "temperatura": 25.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:10:40.657220"
+    },
+    {
+        "temperatura": 25.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:10:52.437193"
+    },
+    {
+        "temperatura": 25.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:11:03.799987"
+    },
+    {
+        "temperatura": 25.31,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:11:15.374509"
+    },
+    {
+        "temperatura": 25.25,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:11:27.071377"
+    },
+    {
+        "temperatura": 25.25,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:11:38.722150"
+    },
+    {
+        "temperatura": 25.19,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:11:50.087348"
+    },
+    {
+        "temperatura": 25.25,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:12:01.654289"
+    },
+    {
+        "temperatura": 25.25,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:12:12.981186"
+    },
+    {
+        "temperatura": 25.19,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:12:24.604670"
+    },
+    {
+        "temperatura": 25.19,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:12:35.740922"
+    },
+    {
+        "temperatura": 25.12,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:12:47.224734"
+    },
+    {
+        "temperatura": 25.12,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:12:58.800675"
+    },
+    {
+        "temperatura": 25.06,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:13:12.628564"
+    },
+    {
+        "temperatura": 25.06,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:13:23.789251"
+    },
+    {
+        "temperatura": 25.06,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:13:38.343376"
+    },
+    {
+        "temperatura": 25.0,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:13:49.691544"
+    },
+    {
+        "temperatura": 25.0,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:14:04.645700"
+    },
+    {
+        "temperatura": 25.0,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:14:15.773498"
+    },
+    {
+        "temperatura": 25.0,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:14:27.175489"
+    },
+    {
+        "temperatura": 25.0,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:14:38.310419"
+    },
+    {
+        "temperatura": 24.94,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:14:49.907682"
+    },
+    {
+        "temperatura": 25.0,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:15:01.475028"
+    },
+    {
+        "temperatura": 24.87,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:15:12.857107"
+    },
+    {
+        "temperatura": 24.87,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:15:24.421821"
+    },
+    {
+        "temperatura": 24.94,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:15:35.632979"
+    },
+    {
+        "temperatura": 24.94,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:15:57.081872"
+    },
+    {
+        "temperatura": 24.94,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:15:57.502668"
+    },
+    {
+        "temperatura": 24.87,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:16:09.166623"
+    },
+    {
+        "temperatura": 24.87,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:16:23.913886"
+    },
+    {
+        "temperatura": 24.87,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:16:35.065307"
+    },
+    {
+        "temperatura": 24.87,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:16:46.547144"
+    },
+    {
+        "temperatura": 24.87,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:17:11.536880"
+    },
+    {
+        "temperatura": 24.81,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:17:22.893309"
+    },
+    {
+        "temperatura": 24.81,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:17:38.395978"
+    },
+    {
+        "temperatura": 24.81,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:18:04.059526"
+    },
+    {
+        "temperatura": 24.81,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:18:07.630495"
+    },
+    {
+        "temperatura": 24.81,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:18:18.706787"
+    },
+    {
+        "temperatura": 24.81,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:18:33.252596"
+    },
+    {
+        "temperatura": 24.81,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:18:44.714007"
+    },
+    {
+        "temperatura": 24.81,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:18:56.286032"
+    },
+    {
+        "temperatura": 24.75,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:19:28.955835"
+    },
+    {
+        "temperatura": 24.81,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:19:40.523776"
+    },
+    {
+        "temperatura": 24.81,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:19:52.307244"
+    },
+    {
+        "temperatura": 24.75,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:20:15.035453"
+    },
+    {
+        "temperatura": 24.81,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:20:15.240891"
+    },
+    {
+        "temperatura": 24.81,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:20:40.330759"
+    },
+    {
+        "temperatura": 24.75,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:20:51.905037"
+    },
+    {
+        "temperatura": 24.81,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:21:08.079100"
+    },
+    {
+        "temperatura": 26.12,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:21:24.062226"
+    },
+    {
+        "temperatura": 26.31,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:21:35.189619"
+    },
+    {
+        "temperatura": 26.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:22:00.214426"
+    },
+    {
+        "temperatura": 26.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:22:25.917632"
+    },
+    {
+        "temperatura": 26.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:22:28.999441"
+    },
+    {
+        "temperatura": 26.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:22:37.142741"
+    },
+    {
+        "temperatura": 26.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:22:48.746894"
+    },
+    {
+        "temperatura": 26.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:23:00.013163"
+    },
+    {
+        "temperatura": 26.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:23:11.372508"
+    },
+    {
+        "temperatura": 26.75,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:23:25.831691"
+    },
+    {
+        "temperatura": 26.81,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:23:43.118108"
+    },
+    {
+        "temperatura": 26.75,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:23:51.924996"
+    },
+    {
+        "temperatura": 26.75,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:24:29.885550"
+    },
+    {
+        "temperatura": 26.87,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:24:38.537497"
+    },
+    {
+        "temperatura": 26.81,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:25:03.320466"
+    },
+    {
+        "temperatura": 26.81,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:25:17.852347"
+    },
+    {
+        "temperatura": 26.81,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:25:32.185748"
+    },
+    {
+        "temperatura": 26.87,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:25:43.300722"
+    },
+    {
+        "temperatura": 26.94,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:31:24.307142"
+    },
+    {
+        "temperatura": 27.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:31:35.597540"
+    },
+    {
+        "temperatura": 27.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:31:46.789921"
+    },
+    {
+        "temperatura": 27.75,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:31:58.041043"
+    },
+    {
+        "temperatura": 28.75,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:32:09.302575"
+    },
+    {
+        "temperatura": 28.0,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:32:20.391703"
+    },
+    {
+        "temperatura": 27.94,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:32:31.929946"
+    },
+    {
+        "temperatura": 27.75,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:32:43.109230"
+    },
+    {
+        "temperatura": 39.0,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:32:54.564027"
+    },
+    {
+        "temperatura": 61.75,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:33:05.650306"
+    },
+    {
+        "temperatura": 38.25,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:33:16.975244"
+    },
+    {
+        "temperatura": 31.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:33:28.357499"
+    },
+    {
+        "temperatura": 29.37,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:33:39.656488"
+    },
+    {
+        "temperatura": 28.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:33:50.741709"
+    },
+    {
+        "temperatura": 28.06,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:34:02.188851"
+    },
+    {
+        "temperatura": 27.87,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:34:13.665317"
+    },
+    {
+        "temperatura": 27.75,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:34:24.938398"
+    },
+    {
+        "temperatura": 27.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:34:36.030478"
+    },
+    {
+        "temperatura": 27.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:34:47.210981"
+    },
+    {
+        "temperatura": 27.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:34:58.471499"
+    },
+    {
+        "temperatura": 27.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:35:09.739073"
+    },
+    {
+        "temperatura": 27.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:35:20.828748"
+    },
+    {
+        "temperatura": 27.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:35:31.917919"
+    },
+    {
+        "temperatura": 27.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:35:43.122295"
+    },
+    {
+        "temperatura": 27.62,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:35:54.383384"
+    },
+    {
+        "temperatura": 27.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:36:05.547616"
+    },
+    {
+        "temperatura": 27.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:36:16.812360"
+    },
+    {
+        "temperatura": 27.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:36:28.079031"
+    },
+    {
+        "temperatura": 27.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:36:39.348226"
+    },
+    {
+        "temperatura": 27.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:36:50.667125"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:37:02.087633"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:37:13.182102"
+    },
+    {
+        "temperatura": 27.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:37:24.271863"
+    },
+    {
+        "temperatura": 27.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:37:35.456622"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:37:46.720787"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:37:57.991812"
+    },
+    {
+        "temperatura": 27.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:38:09.248841"
+    },
+    {
+        "temperatura": 27.56,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:38:20.580963"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:38:31.981228"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:38:43.145645"
+    },
+    {
+        "temperatura": 27.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:38:54.508016"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:39:05.681116"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:39:16.937405"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:39:28.055059"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:39:39.326290"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:39:50.528284"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:40:01.628901"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:40:13.055606"
+    },
+    {
+        "temperatura": 27.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:40:24.320759"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:40:35.588575"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:40:46.849348"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:40:58.113216"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:41:09.198348"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:41:20.739337"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:41:32.121012"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:41:43.210876"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:41:54.639020"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:42:05.909247"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:42:17.019827"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:42:28.112386"
+    },
+    {
+        "temperatura": 27.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:42:39.284462"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:42:50.551880"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:43:01.917658"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:43:13.022178"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:43:24.118870"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:43:35.220818"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:43:46.341845"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:43:57.433954"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:44:08.530487"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:44:20.119327"
+    },
+    {
+        "temperatura": 27.37,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:44:31.328518"
+    },
+    {
+        "temperatura": 10.5,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:44:42.582704"
+    },
+    {
+        "temperatura": 5.69,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:44:53.845700"
+    },
+    {
+        "temperatura": 3.94,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:45:05.109573"
+    },
+    {
+        "temperatura": 3.06,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:45:16.372005"
+    },
+    {
+        "temperatura": 4.5,
+        "rele_aquecedor": true,
+        "timestamp": "2025-06-03T19:45:27.477218"
+    },
+    {
+        "temperatura": 42.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:45:38.696232"
+    },
+    {
+        "temperatura": 65.12,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:45:49.970657"
+    },
+    {
+        "temperatura": 72.81,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:46:01.227016"
+    },
+    {
+        "temperatura": 75.12,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:46:12.521228"
+    },
+    {
+        "temperatura": 67.31,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:46:23.760274"
+    },
+    {
+        "temperatura": 48.31,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:46:35.029444"
+    },
+    {
+        "temperatura": 35.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:46:46.122511"
+    },
+    {
+        "temperatura": 31.12,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:46:57.342187"
+    },
+    {
+        "temperatura": 29.19,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:47:08.451010"
+    },
+    {
+        "temperatura": 28.25,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:47:19.706909"
+    },
+    {
+        "temperatura": 27.75,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:47:30.806025"
+    },
+    {
+        "temperatura": 27.5,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:47:42.087722"
+    },
+    {
+        "temperatura": 27.44,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:47:53.465015"
+    },
+    {
+        "temperatura": 26.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:54:32.221650"
+    },
+    {
+        "temperatura": 26.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:54:47.784794"
+    },
+    {
+        "temperatura": 26.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:54:53.616060"
+    },
+    {
+        "temperatura": 26.69,
+        "rele_aquecedor": false,
+        "timestamp": "2025-06-03T19:55:15.739352"
+    },
+    {
+        "temperatura": 27.8,
+        "rele_aquecedor": true,
+        "ventoinha": false,
+        "motor": true,
+        "comida_dispensada": true,
+        "bomba_oxigenacao": true,
+        "timestamp": "2025-06-03T20:20:12.717396"
+    },
+    {
+        "temperatura": 27.8,
+        "rele_aquecedor": true,
+        "ventoinha": false,
+        "motor": true,
+        "comida_dispensada": true,
+        "bomba_oxigenacao": true,
+        "ultima_refeicao": "2025-06-03 20:35:04",
+        "timestamp": "2025-06-03T20:35:06.200240"
+    },
+    {
+        "temperatura": 27.8,
+        "rele_aquecedor": true,
+        "ventoinha": false,
+        "motor": true,
+        "comida_dispensada": true,
+        "bomba_oxigenacao": true,
+        "ultima_refeicao": "20:39:09",
+        "timestamp": "2025-06-03T20:39:11.300640"
+    },
+    {
+        "temperatura": 27.8,
+        "rele_aquecedor": true,
+        "ventoinha": false,
+        "motor": true,
+        "comida_dispensada": true,
+        "bomba_oxigenacao": true,
+        "ultima_refeicao": "2025-06-03 20:40:36",
+        "timestamp": "2025-06-03T20:40:38.262104"
     }
 ]

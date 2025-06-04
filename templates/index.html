@@ -18,12 +18,12 @@
       border-radius: 10px;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
       display: inline-block;
-      padding: 20px;
+      padding: 20px 40px;
       margin-top: 20px;
     }
     .dado {
-      font-size: 1.2em;
-      margin: 10px 0;
+      font-size: 1.4em;
+      margin: 15px 0;
     }
   </style>
 </head>
@@ -34,46 +34,62 @@
       <strong>🌡️ Temperatura:</strong> <span id="temperatura">Carregando...</span> °C
     </div>
     <div class="dado">
-      <strong>🍽️ Última Refeição:</strong> <span id="ultima">Carregando...</span>
+      <strong>🔥 Aquecedor:</strong> <span id="rele_aquecedor">Carregando...</span>
     </div>
     <div class="dado">
-      <strong>⏰ Próxima Refeição:</strong> <span id="proxima">Carregando...</span>
+      <strong>🌀 Ventoinha:</strong> <span id="ventoinha">Carregando...</span>
+    </div>
+    <div class="dado">
+      <strong>🍽️ Motor Alimentador:</strong> <span id="motor">Carregando...</span>
+    </div>
+    <div class="dado">
+      <strong>✅ Comida Dispensada:</strong> <span id="comida">Carregando...</span>
+    </div>
+    <div class="dado">
+      <strong>💧 Bomba de Oxigênio:</strong> <span id="bomba">Carregando...</span>
+    </div>
+    <div class="dado">
+      <strong>⏰ Horário da última refeição:</strong> <span id="ultima">Carregando...</span>
     </div>
   </div>
 
- <script>
-  function formatarDataHora(dataISO) {
-    const data = new Date(dataISO);
-    if (isNaN(data)) return "Formato inválido";
+  <script>
+    function formatarDataHora(dataISO) {
+      const data = new Date(dataISO);
+      if (isNaN(data)) return "Formato inválido";
 
-    const dia = String(data.getDate()).padStart(2, '0');
-    const mes = String(data.getMonth() + 1).padStart(2, '0');
-    const ano = data.getFullYear();
-    const hora = String(data.getHours()).padStart(2, '0');
-    const minuto = String(data.getMinutes()).padStart(2, '0');
+      const dia = String(data.getDate()).padStart(2, '0');
+      const mes = String(data.getMonth() + 1).padStart(2, '0');
+      const ano = data.getFullYear();
+      const hora = String(data.getHours()).padStart(2, '0');
+      const minuto = String(data.getMinutes()).padStart(2, '0');
 
-    return `${dia}/${mes}/${ano} às ${hora}:${minuto}`;
-  }
-
-  async function atualizarDados() {
-    try {
-      const resposta = await fetch("/api/dados");
-      const lista = await resposta.json();
-
-      if (!Array.isArray(lista) || lista.length === 0) return;
-
-      const dados = lista[lista.length - 1];
-
-      document.getElementById("temperatura").textContent = dados.temperatura ?? "N/A";
-      document.getElementById("ultima").textContent = formatarDataHora(dados.ultima_refeicao);
-      document.getElementById("proxima").textContent = formatarDataHora(dados.proxima_refeicao);
-    } catch (err) {
-      console.error("Erro ao buscar dados:", err);
+      return `${dia}/${mes}/${ano} às ${hora}:${minuto}`;
     }
-  }
 
-  atualizarDados();
-  setInterval(atualizarDados, 10000);
-</script>
+    async function atualizarDados() {
+      try {
+        const resposta = await fetch("/api/dados");
+        const lista = await resposta.json();
+
+        if (!Array.isArray(lista) || lista.length === 0) return;
+
+        const dados = lista[lista.length - 1];
+
+        document.getElementById("temperatura").textContent = dados.temperatura ?? "N/A";
+        document.getElementById("rele_aquecedor").textContent = dados.rele_aquecedor ? "Ligado" : "Desligado";
+        document.getElementById("ventoinha").textContent = dados.ventoinha ? "Ligada" : "Desligada";
+        document.getElementById("motor").textContent = dados.motor ? "Ativado" : "Desativado";
+        document.getElementById("comida").textContent = dados.comida_dispensada ? "Sim" : "Não";
+        document.getElementById("bomba").textContent = dados.bomba_oxigenacao ? "Ligada" : "Desligada";
+        document.getElementById("ultima").textContent = formatarDataHora(dados.ultima_refeicao);
+      } catch (err) {
+        console.error("Erro ao buscar dados:", err);
+      }
+    }
+
+    atualizarDados();
+    setInterval(atualizarDados, 10000);
+  </script>
 </body>
 </html>
