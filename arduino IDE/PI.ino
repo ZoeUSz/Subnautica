@@ -7,7 +7,7 @@
 // --- Wi-Fi ---
 const char* ssid = "SEU_WIFI";
 const char* password = "SUA_SENHA";
-const char* serverUrl = "http://192.168.57.19:5000/api/dados"; // Altere para IP do Flask
+const char* serverUrl = "SEU IPV4; // Altere para IP do Flask
 
 // --- Sensor de Temperatura (DS18B20) ---
 const int ONE_WIRE_BUS = 5;
