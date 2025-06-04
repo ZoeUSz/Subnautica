@@ -19,17 +19,24 @@ Este projeto tem como objetivo automatizar o controle de um aquário, integrando
 - Powerbank (fonte de alimentação)
 - Impressão 3D personalizada
 - Flask + HTML (interface web)
+- ScadaBR (visualização industrial dos dados)
 
 ## 📦 Funcionalidades
 
 - 🕒 Alimentador automático com horários programados
 - 🌡️ Controle de temperatura (aciona aquecedor ou ventoinha automaticamente)
 - 💨 Bomba de oxigenação acionada por horários ou sensores
-- 📈 Exibição de dados em tempo real via display e tela touch com Flask
+- 📈 Exibição de dados em tempo real via página HTML ou sistema SCADA
 - 🔧 Estrutura impressa em 3D para otimizar o espaço do aquário
+
+## 🖥️ Monitoramento com SCADA
+
+- 🖲️ Integração com **ScadaBR** para visualização gráfica e industrial dos dados.
+- 📊 Comunicação via protocolo HTTP com servidor Flask intermediando a coleta.
+- 🔍 Monitoramento de: temperatura, status do aquecedor, ventoinha, motor do alimentador, bomba de oxigênio e registro da última alimentação.
 
 ## 💡 Como usar
 
 1. Clone este repositório:
-```bash
-git clone https://github.com/SeuUsuario/SeuRepositorio.git
+   ```bash
+   git clone https://github.com/SeuUsuario/SeuRepositorio.git
