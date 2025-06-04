@@ -21,7 +21,7 @@ DallasTemperature sensors(&oneWire);
 // Wi-Fi e servidor
 const char* ssid = "SEU_WIFI";
 const char* password = "SUA_SENHA";
-const char* serverUrl = "http://192.168.57.19:5000/api/dados";
+const char* serverUrl = "SEU IPV4";
 
 unsigned long ultimaTransmissao = 0;
 const long intervalo = 10000; // 10 segundos
